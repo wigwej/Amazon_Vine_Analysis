@@ -1,10 +1,7 @@
 # Amazon_Vine_Analysis
 
 **Overview of the Analysis**
-
-
-
-
+Our analysis seeks to analyze Amazon reviews by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for the products. Our focus is on database on musical instruments. We deployed PySpark to determine if there is any bias towards favorable reviews for Vine members  in my dataset. We created the tables on SQL usind PGAdmin.
 
 **Results**
 
@@ -17,9 +14,6 @@
 * Perecentage of 5 star Vine reviews:56.6666%
 
 * Percentage of 5 star non-Vine reviews: 56.72445%
-
-
-
 
 
 **Summary**
