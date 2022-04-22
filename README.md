@@ -6,7 +6,7 @@ Our analysis seeks to analyze Amazon reviews by members of the paid Amazon Vine 
 
 **Results**
 
-* Number of Vine reviews and non-Vine reviews:* 34, 8212 respectively
+* Number of Vine reviews and non-Vine reviews: 34, 8212 respectively
 
 * Number of 5 star Vine reviews: 60
 
